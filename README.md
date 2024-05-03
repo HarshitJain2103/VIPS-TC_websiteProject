@@ -2,7 +2,15 @@
 
 This Project is an ERP -Student Dashboard.
 This helps you know about VIPS-TC , contact the Staff on different socials like Instagram , LinkedIn, ..etc
-The dashboard also helps you know your CGPA and class performance (to be built in near future). 
+
+# Our future aim with the project
+ The project should be able to mark the student attendance , 
+  the performance , 
+  calculate the cgpa using the final semester marks and 
+  also store student's academic details for the help of the professors and for the students too.
+
+# Know the Students- 
+
 This project is a part of our Electrical Science Project , and it is made by the following students-
 1.Harshit Jain (54) -CSE A
 2.Harshit Kaushik(17) - CSE A 
