@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VIPS-TC_websiteProject/static/css/main.e4cfb815.css",
-    "main.js": "/VIPS-TC_websiteProject/static/js/main.0c38a59f.js",
+    "main.js": "/VIPS-TC_websiteProject/static/js/main.d1310fe5.js",
     "static/js/453.02b6ed6f.chunk.js": "/VIPS-TC_websiteProject/static/js/453.02b6ed6f.chunk.js",
     "index.html": "/VIPS-TC_websiteProject/index.html",
     "main.e4cfb815.css.map": "/VIPS-TC_websiteProject/static/css/main.e4cfb815.css.map",
-    "main.0c38a59f.js.map": "/VIPS-TC_websiteProject/static/js/main.0c38a59f.js.map",
+    "main.d1310fe5.js.map": "/VIPS-TC_websiteProject/static/js/main.d1310fe5.js.map",
     "453.02b6ed6f.chunk.js.map": "/VIPS-TC_websiteProject/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4cfb815.css",
-    "static/js/main.0c38a59f.js"
+    "static/js/main.d1310fe5.js"
   ]
 }
