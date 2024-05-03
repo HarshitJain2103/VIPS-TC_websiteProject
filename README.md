@@ -1,4 +1,5 @@
-#Know the usage of the Project
+# Know the usage of the Project
+
 This Project is an ERP -Student Dashboard.
 This helps you know about VIPS-TC , contact the Staff on different socials like Instagram , LinkedIn, ..etc
 The dashboard also helps you know your CGPA and class performance (to be built in near future). 
