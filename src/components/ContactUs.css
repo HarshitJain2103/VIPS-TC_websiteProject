@@ -1,0 +1,19 @@
+.venue{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info{
+    margin-bottom: 100px;
+   
+}
+
+.map{
+    width: 1258px;
+    margin-left: 100px;
+    height: 508px;
+    border-style: solid;
+    border-width: 4px;
+}
