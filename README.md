@@ -1,3 +1,6 @@
+# Practice project
+Deployed on aws : http://vipstcwebsite.s3-website.ap-south-1.amazonaws.com
+
 # Know the usage of the Project
 
 This Project is an ERP -Student Dashboard.
