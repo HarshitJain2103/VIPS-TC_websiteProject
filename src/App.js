@@ -49,9 +49,9 @@ function App() {
       {/* <home/> */}
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Front/>} errorElement={<Error/>} />
+          <Route path="/" element={<Front/>}  errorElement={<Error/>}/>
           <Route path="/About" element={<About mode={mode} toggleMode={toggleMode}/>} errorElement={<Error/>} />
-          <Route path="/ContactUs" element={<ContactUs mode={mode} toggleMode={toggleMode}/>} errorElement={<Error/>} />
+          <Route path="/ContactUs" element={<ContactUs mode={mode} toggleMode={toggleMode}/>}  errorElement={<Error/>}/>
         </Routes>
       </BrowserRouter>
     </>
